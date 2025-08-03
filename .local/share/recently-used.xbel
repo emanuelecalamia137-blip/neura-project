@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(5).html" added="2025-08-02T23:45:31.641239Z" modified="2025-08-02T23:46:09.460395Z" visited="2025-08-02T23:45:31.641240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-02T23:46:09.460361Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(6).html" added="2025-08-02T23:47:43.101508Z" modified="2025-08-03T00:45:02.173456Z" visited="2025-08-02T23:47:43.101509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:45:02.173430Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(8).html" added="2025-08-03T00:08:58.150793Z" modified="2025-08-03T00:08:58.150806Z" visited="2025-08-03T00:08:58.150794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:08:58.150800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(9).html" added="2025-08-03T00:12:12.733701Z" modified="2025-08-03T00:12:12.733722Z" visited="2025-08-03T00:12:12.733703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:12:12.733714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(10).html" added="2025-08-03T00:15:13.377928Z" modified="2025-08-03T00:15:13.377948Z" visited="2025-08-03T00:15:13.377930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:15:13.377939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt.desktop" added="2025-08-03T00:18:28.942042Z" modified="2025-08-03T00:18:28.942057Z" visited="2025-08-03T00:18:28.942044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-08-03T00:18:28.942049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt_log.txt" added="2025-08-03T00:18:36.807297Z" modified="2025-08-03T00:18:36.807304Z" visited="2025-08-03T00:18:36.807297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-08-03T00:18:36.807300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt_terminal.sh" added="2025-08-03T00:18:54.998572Z" modified="2025-08-03T00:18:54.998584Z" visited="2025-08-03T00:18:54.998574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-08-03T00:18:54.998578Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(16).html" added="2025-08-03T00:28:57.384085Z" modified="2025-08-03T00:31:13.884617Z" visited="2025-08-03T00:28:57.384086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:31:13.884615Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share.html" added="2025-08-03T00:31:36.713588Z" modified="2025-08-03T00:31:38.967998Z" visited="2025-08-03T00:31:36.713589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:31:38.967987Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(1).html" added="2025-08-03T00:34:26.518649Z" modified="2025-08-03T00:34:26.518664Z" visited="2025-08-03T00:34:26.518650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:34:26.518658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(2).html" added="2025-08-03T00:37:13.940110Z" modified="2025-08-03T01:37:03.507664Z" visited="2025-08-03T00:37:13.940111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T01:37:03.507659Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(7).html" added="2025-08-03T00:51:43.212159Z" modified="2025-08-03T00:51:43.212172Z" visited="2025-08-03T00:51:43.212160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T00:51:43.212166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(14).html" added="2025-08-03T01:07:22.173382Z" modified="2025-08-03T01:10:05.446991Z" visited="2025-08-03T01:07:22.173383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T01:10:05.446978Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(13).html" added="2025-08-03T01:10:16.243360Z" modified="2025-08-03T01:10:17.382772Z" visited="2025-08-03T01:10:16.243361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T01:10:17.382763Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(12).html" added="2025-08-03T01:10:24.690010Z" modified="2025-08-03T01:10:24.690038Z" visited="2025-08-03T01:10:24.690012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T01:10:24.690027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/bluetooth_content_share(11).html" added="2025-08-03T01:10:32.139345Z" modified="2025-08-03T01:10:32.139358Z" visited="2025-08-03T01:10:32.139346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-08-03T01:10:32.139351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scaricati/chatgpt-1754185131506.jpg" added="2025-08-03T01:41:41.290193Z" modified="2025-08-03T01:42:26.777878Z" visited="2025-08-03T01:41:41.290194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-08-03T01:41:41.290197Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-08-03T01:42:26.755222Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-08-03T01:42:26.777871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

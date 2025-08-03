@@ -1,0 +1,71 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "ASUSTeK COMPUTER INC.",
+    "Product": "VivoBook 15_ASUS Laptop X507UAR",
+    "Family": "VivoBook"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends Inc.",
+    "Version": "X507UAR.303"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "5921"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    1000.2
+  ],
+  "Partitions": [
+    959.2,
+    1.1
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1366x768",
+      "Frequency": "59.80"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": true,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "it_IT",
+  "Timezone": "Europe/Rome",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 24.04.2 LTS",
+    "Stages": {
+      "3": "locale",
+      "16": "accessibility",
+      "22": "keyboard",
+      "28": "network",
+      "83": "refresh",
+      "91": "tryOrInstall",
+      "101": "autoinstall",
+      "140": "sourceSelection",
+      "220": "codecsAndDrivers",
+      "326": "storage",
+      "403": "identity",
+      "491": "timezone",
+      "501": "confirm",
+      "533": "install",
+      "-4786": "done"
+    },
+    "Language": "it",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "PartitionMethod": "use_device",
+    "UseActiveDirectory": false
+  }
+}

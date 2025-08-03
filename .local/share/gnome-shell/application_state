@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1754185307"/>
+    <application id="org.gnome.Nautilus.desktop" score="76" last-seen="1754185340"/>
+    <application id="org.gnome.Settings.desktop" score="90" last-seen="1754214850"/>
+    <application id="firefox_firefox.desktop" score="835" last-seen="1754214861"/>
+    <application id="org.gnome.Terminal.desktop" score="845" last-seen="1754214860"/>
+    <application id="gnome-initial-setup.desktop" score="61" last-seen="1754175721"/>
+    <application id="software-properties-gtk.desktop" score="37" last-seen="1754176422"/>
+    <application id="snapd-desktop-integration_snapd-desktop-integration.desktop" score="0" last-seen="1754213890"/>
+    <application id="org.gnome.Logs.desktop" score="0" last-seen="1754175283"/>
+    <application id="update-manager.desktop" score="32" last-seen="1754182280"/>
+    <application id="org.gnome.TextEditor.desktop" score="13" last-seen="1754180342"/>
+    <application id="apport-gtk.desktop" score="1" last-seen="1754175898"/>
+  </context>
+</application-state>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt_terminal.sh" added="2025-08-02T23:52:12.303105Z" modified="2025-08-03T00:19:02.438450Z" visited="2025-08-03T02:18:55.763987+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-08-03T00:19:02.438450Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt_log.txt" added="2025-08-03T00:03:16.689020Z" modified="2025-08-03T00:19:02.438446Z" visited="2025-08-03T02:18:55.807963+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-08-03T00:19:02.438444Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emanuele/Scrivania/chatgpt.desktop" added="2025-08-03T00:18:31.892567Z" modified="2025-08-03T00:19:02.438448Z" visited="2025-08-03T02:18:55.776038+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-08-03T00:19:02.438448Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
